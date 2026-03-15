@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "比翼の羽根",
+  "base_artist": "eufonius",
+  "createdAt": "2026-03-15T12:16:48.584646Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "比翼の羽根",
+      "artist": "eufonius",
+      "has_synced": true,
+      "path": "select/01_比翼の羽根_eufonius.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "比翼の羽根",
+      "artist": "eufonius",
+      "has_synced": true,
+      "path": "select/02_比翼の羽根_eufonius.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "比翼の羽根",
+      "artist": "eufonius",
+      "has_synced": false,
+      "path": "select/03_比翼の羽根_eufonius.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "比翼の羽根 (Hiyoku no Hane)",
+      "artist": "eufonius",
+      "has_synced": true,
+      "path": "select/04_比翼の羽根_(Hiyoku_no_Hane)_eufonius.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "比翼の羽根 (Hiyoku no Hane)",
+      "artist": "eufonius",
+      "has_synced": true,
+      "path": "select/05_比翼の羽根_(Hiyoku_no_Hane)_eufonius.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "比翼の羽根 (比翼的翅膀)",
+      "artist": "eufonius (ユーフォニアス)",
+      "has_synced": true,
+      "path": "select/06_比翼の羽根_(比翼的翅膀)_eufonius_(ユーフォニアス).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "比翼の羽根",
+      "artist": "eufonius",
+      "has_synced": false,
+      "path": "select/pl_01_比翼の羽根_eufonius.txt"
+    }
+  ]
+}
